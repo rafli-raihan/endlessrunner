@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas width="1024" height="1024" imagePath="enemies-sprite.png">
-  <SubTexture x="0" y="924" fps="8" name="enemy-idle_1" width="100" height="100"/>
-  <SubTexture x="100" y="924" name="enemy-idle_2" width="100" height="100"/>
-  <SubTexture x="200" y="924" name="enemy-idle_3" width="100" height="100"/>
-  <SubTexture x="300" y="924" name="enemy-idle_4" width="100" height="100"/>
-  <SubTexture x="400" y="924" name="enemy-idle_5" width="100" height="100"/>
-  <SubTexture x="500" y="924" name="enemy-idle_6" width="100" height="100"/>
+  <SubTexture x="0" y="896" fps="10" name="orc_walk_1" width="128" height="128"/>
+  <SubTexture x="128" y="896" name="orc_walk_2" width="128" height="128"/>
+  <SubTexture x="256" y="896" name="orc_walk_3" width="128" height="128"/>
+  <SubTexture x="384" y="896" name="orc_walk_4" width="128" height="128"/>
+  <SubTexture x="512" y="896" name="orc_walk_5" width="128" height="128"/>
+  <SubTexture x="640" y="896" name="orc_walk_6" width="128" height="128"/>
+  <SubTexture x="768" y="896" name="orc_walk_7" width="128" height="128"/>
+  <SubTexture x="896" y="896" name="orc_walk_8" width="128" height="128"/>
+  <SubTexture x="0" y="768" fps="14" name="orc_modar_1" width="128" height="128"/>
+  <SubTexture x="128" y="768" name="orc_modar_2" width="128" height="128"/>
+  <SubTexture x="256" y="768" name="orc_modar_3" width="128" height="128"/>
+  <SubTexture x="384" y="768" name="orc_modar_4" width="128" height="128"/>
+  <SubTexture x="512" y="768" name="orc_modar_5" width="128" height="128"/>
+  <SubTexture x="640" y="768" name="orc_modar_6" width="128" height="128"/>
+  <SubTexture x="768" y="768" name="orc_modar_7" width="128" height="128"/>
+  <SubTexture x="896" y="768" fps="9" name="orc_attack_1" width="128" height="128"/>
+  <SubTexture x="0" y="640" name="orc_attack_2" width="128" height="128"/>
+  <SubTexture x="128" y="640" name="orc_attack_3" width="128" height="128"/>
+  <SubTexture x="256" y="640" name="orc_attack_4" width="128" height="128"/>
+  <SubTexture x="384" y="640" name="orc_attack_5" width="128" height="128"/>
+  <SubTexture x="512" y="640" name="orc_attack_6" width="128" height="128"/>
+  <SubTexture x="640" y="640" fps="8" name="orc_attack_alt_1" width="128" height="128"/>
+  <SubTexture x="768" y="640" name="orc_attack_alt_2" width="128" height="128"/>
+  <SubTexture x="896" y="640" name="orc_attack_alt_3" width="128" height="128"/>
+  <SubTexture x="0" y="512" name="orc_attack_alt_4" width="128" height="128"/>
+  <SubTexture x="128" y="512" name="orc_attack_alt_5" width="128" height="128"/>
+  <SubTexture x="256" y="512" name="orc_attack_alt_6" width="128" height="128"/>
 </TextureAtlas>
